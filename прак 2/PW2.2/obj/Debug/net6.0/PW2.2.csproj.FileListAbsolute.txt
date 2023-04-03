@@ -1,0 +1,15 @@
+D:\vs proj\PW2.2\bin\Debug\net6.0\PW2.2.exe
+D:\vs proj\PW2.2\bin\Debug\net6.0\PW2.2.deps.json
+D:\vs proj\PW2.2\bin\Debug\net6.0\PW2.2.runtimeconfig.json
+D:\vs proj\PW2.2\bin\Debug\net6.0\PW2.2.dll
+D:\vs proj\PW2.2\bin\Debug\net6.0\ref\PW2.2.dll
+D:\vs proj\PW2.2\bin\Debug\net6.0\PW2.2.pdb
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.csproj.AssemblyReference.cache
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.AssemblyInfoInputs.cache
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.AssemblyInfo.cs
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.csproj.CoreCompileInputs.cache
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.dll
+D:\vs proj\PW2.2\obj\Debug\net6.0\ref\PW2.2.dll
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.pdb
+D:\vs proj\PW2.2\obj\Debug\net6.0\PW2.2.genruntimeconfig.cache
